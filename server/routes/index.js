@@ -5,6 +5,7 @@ exports.awesomeThings = function(req, res) {
         'HTML5 Boilerplate',
         'AngularJS',
         'Karma',
+        'Twitter bootstrap',
         'Express'
     ]);
 };
